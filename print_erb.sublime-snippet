@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= ${1:} %>]]></content>
+  <tabTrigger>perb</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>print erb tag</description>
+</snippet>
